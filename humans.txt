@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+
+Updated the humans with some data to test the git for practice
