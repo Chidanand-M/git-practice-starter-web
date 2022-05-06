@@ -6,3 +6,8 @@ Hello !Hello
 ## Purpose
 
 Sample website with plenty of files for demos
+
+##Hello Thing
+
+
+##Bye
